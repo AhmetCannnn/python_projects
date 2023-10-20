@@ -6,7 +6,7 @@ Created on Fri Oct 20 14:36:04 2023
 """
 
 import random
-from gamedata import data
+from gamedata import data # You can find the gamedata file in my repositories
 from art import vs
 from art import logo
 import os
